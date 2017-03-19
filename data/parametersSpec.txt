@@ -1,0 +1,2 @@
+first line is the name of Spout sender, it should be specified in Unity Project.
+second line is the order of the screen, it would decide which part should be retrieved from the whole texture.
